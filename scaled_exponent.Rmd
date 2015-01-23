@@ -33,6 +33,7 @@ in order to obtain the exponent of the potencial decaying getting some similar v
 We can get a better value if we notice that in the big city the fit it's better
 
 The the data for some places (y=ax+b) :
+
 |place|b   |a   |
 |=====|====|====|
 |barcelona|1,0732|-0,3691
